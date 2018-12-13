@@ -1,1 +1,2 @@
-# whale-identification
+# Whale-Identification
+Humpback Whale Identification
